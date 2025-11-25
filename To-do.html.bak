@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -262,3 +262,7 @@
     }
   </script>
 </html>
+<!-- Backup copy of original To-do.html -->
+<!-- Created as a safety copy before replacing with React build -->
+
+<!-- Original To-do.html content saved for fallback -->
